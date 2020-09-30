@@ -1,4 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+# Counter sh
+>>>>>>> adding cka yaml files
 
 COUNTER=$1
 COUNTER=$(( COUNTER * 60 ))
